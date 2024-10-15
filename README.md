@@ -1,2 +1,7 @@
 this repo was created using git clone https://github.com/mnielsen/neural-networks-and-deep-learning.git from Michael Nielsen's Neural Networks and Deep Learning ebook. 
 This repo is intended to be used for learning purposes and any subsequent changes pushed will be for learning.
+
+
+We start with the first understanding the data we'll be using to run this program. The data comes from MNIST (Modified National Institute of Standards and Technology Databse) and it is a large database of handwritten digits that are commonly used for training various image processing systems, such as this program. The reason this is important is because handwritten digits have variance to them depending on various factors such as: writing style, differences in how a number is written (i.e. a dash through the middle of a 7 or connecting the top of a 4 or not), and legibility. These can make numbers differ on paper, however our brain and eventually our program will be able to recognize what each number is.
+
+The data set is 60,000 images, which we'll split into two parts. The first set is 50,000 images used to train the network and the second set is 10,000 images that will be used for validation. Last step is to make sure you have the Python library "Numpy" for the linear algebra parts.
