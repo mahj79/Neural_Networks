@@ -27,3 +27,5 @@ By doing a few tests of increasing the number of hidden neurons to say 100, we s
 Now if we took a different approach and wanted to see how changes can decrease performance, we can change the learning rate to n = 0.001. Run "net = network.Network([784, 100, 10])" and then "net.SGD(training_data, 30, 10, 0.001, test_data= test_data)" and check the results. We should see a significant decrease in performance. 
 
 You can play around with the number of neurons and learning rate to find the optimal accuracy, however it can be tricky at first.
+
+This is where we wrap up our demo for today. Some things to consider are what we if we had a different problem than just solving which number of an image is. Some hypothetical examples could be solving a puzzle, figuring out if an image is a face, or if an image is a car? Think about what would be needed from a layers and corresponding neurons from there and then consider building your own model using what you learned here! Remember though for whatever you decide to do, you'll need a lot of training data!
