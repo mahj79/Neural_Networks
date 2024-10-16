@@ -29,3 +29,9 @@ Now if we took a different approach and wanted to see how changes can decrease p
 You can play around with the number of neurons and learning rate to find the optimal accuracy, however it can be tricky at first.
 
 This is where we wrap up our demo for today. Some things to consider are what we if we had a different problem than just solving which number of an image is. Some hypothetical examples could be solving a puzzle, figuring out if an image is a face, or if an image is a car? Think about what would be needed from a layers and corresponding neurons from there and then consider building your own model using what you learned here! Remember though for whatever you decide to do, you'll need a lot of training data!
+
+Other considerations that should be thought about are what potential risks can come from machine learning and AI leveraging neural networks? What if training data is inaccurate or wrong? What if accuracy isn't at a high enough threshold and outputs wrong answers to the consumers / end users? What controls can be implemented to help mitigate some of the risks associated with these learning models? 
+
+The flip side of risk considerations are what potential can be achieved leveraging these? Building models to train more accurate answers for customer support? Creating more robust programs that are highly performant? Try to think of a use case that could be aided by machine learning in your current role?
+
+Last thing to think about is some of the "other" impacts we can consider. High energy consumption to support the machines powering these models and programs, how will that be achieved? Ethics of new students using AI / machine learning to solve problems or write for them? There's a lot to think about, but hopefully you can focus on the good! 
