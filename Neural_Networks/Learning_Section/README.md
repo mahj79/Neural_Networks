@@ -11,3 +11,5 @@ Before we go deep into today's session, let's first cover some of the basic defi
 ![Neural Networks Diagram](https://github.com/user-attachments/assets/15c58dff-76a8-4526-ba42-beca19950222)
 
 - What is the difference between A.I. and Machine Learning? According to Google, artificial intelligence encompasses the idea of a machine that can mimic human intelligence, machine learning does not. Machine learning aims to teach a machine how to perform a specific task and provide accurate results by identifying patterns. 
+
+To help with our lesson today, we'll use the most common image recognition and learning method used in machine learning and that is recognizing numbers from hand drawn images maintained by the mnist database. Our good friends NIST (National Institute of Standards and Technology) have compiled thousands of handwritten images of numbers.
