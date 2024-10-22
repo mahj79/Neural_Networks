@@ -10,33 +10,51 @@ Before we go deep into today's session, let's first cover some of the basic defi
 
 ![Neural Networks Diagram](https://github.com/mahj79/Neural_Networks/blob/main/Neural_Networks/Learning_Section/Neural_Network_Drawing.jpg?raw=true)
 
+<br>
+<br>
+
 **What is the difference between A.I. and Machine Learning?** According to Google, artificial intelligence encompasses the idea of a machine that can mimic human intelligence, machine learning does not. Machine learning aims to teach a machine how to perform a specific task and provide accurate results by identifying patterns. 
 
 TLDR (Too Long Don't Read) - AI can do a lot of stuff. Machine Learning is focused on a specific task.
 
+<br>
+<br>
+<br>
 
 To help with our lesson today, we'll use the most common image recognition and learning method used in machine learning and that is recognizing numbers from hand drawn images maintained by the mnist database. Our good friends NIST (National Institute of Standards and Technology) have compiled thousands of handwritten images of numbers.
+<br>
 
 ![MNIST Numbers Dataset](https://github.com/mahj79/Neural_Networks/blob/main/Neural_Networks/Learning_Section/mnist_numbers.png?raw=true)
 
+<br>
 Think about each number can be written uniquely. Some people will put dashes on their 7s, connect the tops of their 4s, or put curves on the top of their 1s.
 
 ![MNIST Numbers Extended](https://github.com/mahj79/Neural_Networks/blob/main/Neural_Networks/Learning_Section/mnist_extended_zoomed.png)
 
+<br>
+<br>
+<br>
 How we go about solving the problem of appropriately identifying a number, we can think of a neural network as a system of filters that continues to filter information based on educated assessments of a certain piece of information until ultimately arriving at an answer. These filters are the layers we referred to earlier. 
 
 Let's take a look at a speicific example, a handdrawn image of the number 8.
 
 ![MNIST Number Eight](https://github.com/mahj79/Neural_Networks/blob/main/Neural_Networks/Learning_Section/mnist_image_number_eight.jpg)
 
- Think about how over time you would get really good at correctly identifying issuse if you did this thousands of times! To help our program learn over time and become more accurate at correctly identifying a number, we use weights and biases to help fine tune our program over time. Below is an example of how we can put more emphasis on information passed along from layer to next by adding more weight to a specific feature our layer is looking for. 
+<br>
+<br>
+Think about how over time you would get really good at correctly identifying issuse if you did this thousands of times! To help our program learn over time and become more accurate at correctly identifying a number, we use weights and biases to help fine tune our program over time. Below is an example of how we can put more emphasis on information passed along from layer to next by adding more weight to a specific feature our layer is looking for. 
 
 ![MNIST Neural Network Weights Red](https://github.com/mahj79/Neural_Networks/blob/main/Neural_Networks/Learning_Section/Neural_Network_Drawing_Red_Weights.jpg)
-
+<br>
 Below is a different example with different neurons lit up. Think of this as our neurons communicating to the next layer as "yup, we got a loop over here" or "no loops identified here".
 
 ![MNIST Neural Network Weights Blue](https://github.com/mahj79/Neural_Networks/blob/main/Neural_Networks/Learning_Section/Neural_Network_Drawing_Blue_Weights.jpg)
+<br>
 
+<br>
+<br>
+<br>
+<br>
 Weights and biases are similar in that we are essentially telling the program what it should be caring about. So, what is a bias? A bias is how we leverage the neurons in a layer to say what or what not to look for. The bias helps us get closer to that 1 or 0 that tells our layers this is what we should be caring about. From a mathematical perspective it acts sort of like a negative effect. Take a look at our number 8 example again and how bias is applied.
 
 ![MNIST Number Eight with Bias](https://github.com/mahj79/Neural_Networks/blob/main/Neural_Networks/Learning_Section/number_eight_bias.JPG)
