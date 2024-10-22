@@ -15,3 +15,14 @@ Before we go deep into today's session, let's first cover some of the basic defi
 To help with our lesson today, we'll use the most common image recognition and learning method used in machine learning and that is recognizing numbers from hand drawn images maintained by the mnist database. Our good friends NIST (National Institute of Standards and Technology) have compiled thousands of handwritten images of numbers.
 
 ![MNIST Numbers Dataset](https://github.com/mahj79/Neural_Networks/blob/main/Neural_Networks/Learning_Section/mnist_numbers.png?raw=true)
+
+![MNIST Numbers Extended](https://github.com/mahj79/Neural_Networks/blob/main/Neural_Networks/Learning_Section/mnist_extended_zoomed.png)
+
+![MNIST Number Eight](https://github.com/mahj79/Neural_Networks/blob/main/Neural_Networks/Learning_Section/mnist_image_number_eight.jpg)
+
+![MNIST Neural Network Weights Red](https://github.com/mahj79/Neural_Networks/blob/main/Neural_Networks/Learning_Section/Neural_Network_Drawing_Red_Weights.jpg)
+
+![MNIST Neural Network Weights Blue](https://github.com/mahj79/Neural_Networks/blob/main/Neural_Networks/Learning_Section/Neural_Network_Drawing_Blue_Weights.jpg)
+
+![MNIST Number Eight with Bias](https://github.com/mahj79/Neural_Networks/blob/main/Neural_Networks/Learning_Section/number_eight_bias.JPG)
+
