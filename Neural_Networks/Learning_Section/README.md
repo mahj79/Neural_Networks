@@ -45,17 +45,17 @@ The bias plays a critical part in training our neural network / machine learning
 
 Ok so we've covered a lot of conceptual knowledge.... Demo time with Code! Note this code was cloned from the git repo neural networks from Michael Nielsen's Neural Networks and Deep Learning ebook. Highly recommend taking a look after this!
 
-
-
-
-
-
-
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 So what did we learn? That's right everything is a neural network.
