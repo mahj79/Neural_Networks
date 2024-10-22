@@ -52,7 +52,7 @@ So what did we learn? That's right everything is a neural network.
 
 For comedic relief after going through all that, note this is how my fiancee looks at me when I try to explain this sort of stuff to her.
 
-![Always Sunny Crazy Meme](https://github.com/mahj79/Neural_Networks/blob/main/Neural_Networks/Learning_Section/always_sunny_meme.jfif)
+![Always Sunny Crazy Meme](https://github.com/mahj79/Neural_Networks/blob/main/Neural_Networks/Learning_Section/always_sunny_meme.jpg)
 
 Some things to consider are what we if we had a different problem than just solving which number of an image is. Some hypothetical examples could be solving a puzzle, figuring out if an image is a face, or if an image is a car? Think about what would be needed from a layers and corresponding neurons from there and then consider building your own model using what you learned here! Remember though for whatever you decide to do, you'll need a lot of training data!
 
