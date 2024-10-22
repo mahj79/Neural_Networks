@@ -26,3 +26,6 @@ To help with our lesson today, we'll use the most common image recognition and l
 
 ![MNIST Number Eight with Bias](https://github.com/mahj79/Neural_Networks/blob/main/Neural_Networks/Learning_Section/number_eight_bias.JPG)
 
+![Neural Network meme](https://github.com/mahj79/Neural_Networks/blob/main/Neural_Networks/Learning_Section/neural_network_meme.jpg)
+
+![Always Sunny Crazy Meme](https://github.com/mahj79/Neural_Networks/blob/main/Neural_Networks/Learning_Section/always_sunny_meme.jfif)
