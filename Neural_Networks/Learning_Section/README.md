@@ -8,7 +8,7 @@ Before we go deep into today's session, let's first cover some of the basic defi
 
 - Neural Networks, IBM Definition: A neural network is a machine learning program, or model, that makes decisions in a manner similar to the human brain, by using processes that mimic the way biological neurons work together to identify phenomena, weigh options and arrive at conclusions.
 
-![Neural Networks Diagram](https://github.com/user-attachments/assets/15c58dff-76a8-4526-ba42-beca19950222)
+![Neural Networks Diagram](https://github.com/mahj79/Neural_Networks/blob/main/Neural_Networks/Learning_Section/Neural_Network_Drawing.jpg?raw=true)
 
 - What is the difference between A.I. and Machine Learning? According to Google, artificial intelligence encompasses the idea of a machine that can mimic human intelligence, machine learning does not. Machine learning aims to teach a machine how to perform a specific task and provide accurate results by identifying patterns. 
 
